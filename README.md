@@ -29,10 +29,6 @@ flappy_bird_rl/
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/flappy-bird-rl.git
-cd flappy-bird-rl
-```
 
 2. Create a virtual environment (recommended):
 ```bash
@@ -154,11 +150,3 @@ The game features three difficulty stages:
 6. Support for custom game parameters
 7. Add unit tests
 8. Implement parallel training with multiple environments
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
