@@ -31,7 +31,7 @@ flappy_bird_rl/
 After downloading the ZIP file, make sure to **enter the inner `flappy_bird_rl` folder first**:
 
 ```bash
-cd "flappy_bird_rl"
+cd "flappy_bird_rl-main"
 ```
 This is required before running any installation or execution commands, because the ZIP file contains a nested folder with the same name, which can be confusing.
 
