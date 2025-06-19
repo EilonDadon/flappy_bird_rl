@@ -40,7 +40,7 @@ Once inside the correct directory, you can proceed with:
 
 1. Download ZIP Folder / Clone Repo:
 
-2. Create a virtual environment (recommended):
+2. Create a virtual environment (optional):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
