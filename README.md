@@ -32,7 +32,7 @@ After downloading the ZIP file, make sure to **enter the inner `flappy_bird_rl` 
 
 ```bash
 cd "flappy_bird_rl"
-
+```
 This is required before running any installation or execution commands, because the ZIP file contains a nested folder with the same name, which can be confusing.
 
 Once inside the correct directory, you can proceed with:
