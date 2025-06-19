@@ -87,7 +87,7 @@ Training progress will be displayed every 50 episodes, showing:
 
 To watch a trained agent play:
 ```bash
-python scripts/play.py [model_path]
+python scripts/play.py
 ```
 
 Controls:
