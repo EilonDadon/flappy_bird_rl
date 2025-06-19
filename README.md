@@ -26,9 +26,19 @@ flappy_bird_rl/
 └── requirements.txt
 ```
 
+⚠️ **IMPORTANT NOTICE BEFORE INSTALLATION** ⚠️
+
+After downloading the ZIP file, make sure to **enter the inner `flappy_bird_rl` folder first**:
+
+```bash
+cd "flappy_bird_rl"
+
+This is required before running any installation or execution commands, because the ZIP file contains a nested folder with the same name, which can be confusing.
+
+Once inside the correct directory, you can proceed with:
 ## Installation
 
-1. Clone the repository:
+1. Download ZIP Folder / Clone Repo:
 
 2. Create a virtual environment (recommended):
 ```bash
